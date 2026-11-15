@@ -1,1 +1,26 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.antoniotecuenta.bestiario","sha256_cert_fingerprints":["8D:A1:1C:76:6C:2E:83:59:8F:C9:00:00:74:1C:D6:70:26:0F:E4:27:7B:C9:FA:97:6C:2E:B2:8F:95:34:74:AC"]}}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.antoniotecuenta.bestiario",
+      "sha256_cert_fingerprints": [
+        "8D:A1:1C:76:6C:2E:83:59:8F:C9:00:00:74:1C:D6:70:26:0F:E4:27:7B:C9:FA:97:6C:2E:B2:8F:95:34:74:AC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.antoniotecuenta.orfeo",
+      "sha256_cert_fingerprints": [
+        "0F:CA:E0:D7:6E:62:52:2B:14:EF:F8:8D:D6:2B:42:FA:EC:D9:3E:7D:8A:28:77:9D:0C:36:EC:C0:04:AD:B4:4B"
+      ]
+    }
+  }
+]
